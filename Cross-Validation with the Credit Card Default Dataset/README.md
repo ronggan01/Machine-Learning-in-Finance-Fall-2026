@@ -11,8 +11,6 @@ The analysis includes:
 * Stratified 90/10 train-test split
 * Monte Carlo Cross Validation using repeated random train-test splits
 * 10-fold Stratified Cross-Validation
-* In-sample and out-of-sample accuracy evaluation
-* Evaluation on the original 10% holdout test set
 * Comparison of cross-validation estimates with holdout test performance
 
 ## Files
