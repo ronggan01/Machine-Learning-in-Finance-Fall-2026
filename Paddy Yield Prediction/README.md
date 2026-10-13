@@ -34,7 +34,7 @@ The project follows these steps:
 
 ## Results
 
-SVR without PCA achieved the lowest RMSE and highest \(R^2\). All eight model configurations achieved $R^2$ values between 0.9875 and 0.9907. 
+SVR without PCA achieved the lowest RMSE and highest $R^2$. All eight model configurations achieved $R^2$ values between 0.9875 and 0.9907. 
 
 For detailed results and discussion, please refer to `IE498_F26_Rong_Gan_project.pdf`.
 
